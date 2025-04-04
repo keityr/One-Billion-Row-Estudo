@@ -1,4 +1,15 @@
-# Um Bilhão de Linhas: Desafio de Processamento de Dados com Python
+# One Billion Row Challenge —Um Bilhão de Linhas: Desafio de Processamento de Dados com Python
+
+# Estudo em Python
+
+Este repositório é uma **prática pessoal** baseada no projeto [One-Billion-Row-Challenge-Python](https://github.com/lvgalvao/One-Billion-Row-Challenge-Python) 
+
+O objetivo foi estudar como gerar arquivos massivos com bilhões de linhas de dados simulados, focando em:
+
+- Escrita eficiente em arquivos grandes
+- Manipulação de strings e números em larga escala
+- Estimativas de tempo e espaço
+- Práticas de otimização em Python
 
 ## Introdução
 
@@ -152,4 +163,4 @@ A Jornada de Dados é o seu lugar
 
 Para entrar na lista de espera clique no botao
 
-[![Imagem](https://raw.githubusercontent.com/lvgalvao/data-engineering-roadmap/main/pics/lista_de_espera.png)](https://forms.gle/hJMtRDP3MPBUGvwS7?orbt_src=orbt-vst-1RWyYmpICDu9gPknLgaD)
+[![Imagem](https://raw.githubusercontent.com/lvgalvao/data-engineering-roadmap/main/pics/lista_de_espera.png)](https://forms.gle/hJMtRDP3MPBUGvwS7?orbt_src=orbt-vst-1RWyYmpICDu9gPknLgaD)# One-Billion-Row-Challenge-Python
