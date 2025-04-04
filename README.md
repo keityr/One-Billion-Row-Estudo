@@ -2,7 +2,7 @@
 
 # Estudo em Python
 
-> ⚠️ Este repositório é uma **prática pessoal** baseada no projeto original [One-Billion-Row-Challenge-Python](https://github.com/lvgalvao/One-Billion-Row-Challenge-Python), criado por [@lvgalvao](https://github.com/lvgalvao).
+> ⚠️ Este repositório é uma **prática pessoal** baseada no projeto  [One-Billion-Row-Challenge-Python](https://github.com/lvgalvao/One-Billion-Row-Challenge-Python), criado por [@lvgalvao](https://github.com/lvgalvao).
 
 Este projeto foi usado com fins de estudo para aprender mais sobre geração de grandes volumes de dados, manipulação de arquivos e otimização em Python.  
 Utilizei como base para aprendizado na aula 05 do BOOTCAMPO de Python da Jornada de dados.
